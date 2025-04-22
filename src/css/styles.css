@@ -164,8 +164,6 @@ body {
     background-color: lightpink;
 }
 
-/* :nth-child(ex)  vamos estilizar o elemento com o nome, no ex, service de acordo com o numero da ordem, que colocamos no parenteses*/
-
 .projects {
     grid-area: projects;
     display: grid;

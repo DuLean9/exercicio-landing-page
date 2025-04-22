@@ -1,4 +1,4 @@
-# Projeto exercicio Pinturas
+# Projeto exercicio Landing Page
 Um projeto para pratica com css e html 🚀
 
 ## Preview 📷
